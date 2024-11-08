@@ -3,7 +3,47 @@ guid: 38df313aa504a7d46813a561cf5486d6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arma
+    second: {fileID: 2100000, guid: ac234d562329f9349af3923d937e4379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casco
+    second: {fileID: 2100000, guid: 31a6001d11f2198429c7820b8be6a475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cassette_mat
+    second: {fileID: 2100000, guid: 0a99bb637b383f643bceb3853d85ca2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Higiene
+    second: {fileID: 2100000, guid: ab68b2148d8b7e04b8f9174ea80fd983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamparas_mat
+    second: {fileID: 2100000, guid: 8ca1f0c61bd5e7e40aa540e8b497c4dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes_Piso
+    second: {fileID: 2100000, guid: 32a81a47dd2a11e4387c5e1d5b13a74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Triciclo
+    second: {fileID: 2100000, guid: 9b6c762dd02632648a8a58b0a343d751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tuberias_Otros
+    second: {fileID: 2100000, guid: bb10932c3a145e04c8efa727a0f8b913, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
